@@ -1,3 +1,14 @@
-specializes in python, c++, and java (not adept).
- still learning linux.
- warcraft enthusiast.
+# General
+General stuffs about me.
+
+## Languages:
+- Java/JavaFX
+- C/C#/C++
+- Python
+- Javascript
+- PHP
+- FXML
+
+## Project Plans
+- None LOL
+
