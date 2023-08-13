@@ -10,5 +10,5 @@ General stuffs about me.
 - FXML
 
 ## Project Plans
-- None LOL
+- WoW Sound Manager
 
