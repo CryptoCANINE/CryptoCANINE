@@ -1,5 +1,5 @@
 # General
-General stuffs about me.
+General things about me.
 
 ## Languages:
 - Java/JavaFX
@@ -9,6 +9,8 @@ General stuffs about me.
 - PHP
 - FXML
 
-## Project Plans
-- WoW Sound Manager
+## Certificates
+- Google Foundations of Cybersecurity
 
+## Project Plans
+- None
